@@ -6,11 +6,12 @@ for writing personal notes on the verses you read at
 
 - Homepage: https://dev-notes-1896.github.io/prabhupada-notes/
 - Privacy policy: https://dev-notes-1896.github.io/prabhupada-notes/privacy.html
-- Questions and feedback: the homepage's [Help and feedback](https://dev-notes-1896.github.io/prabhupada-notes/#support) section (the store's Support URL is the homepage itself), or [issues](https://github.com/dev-notes-1896/prabhupada-notes/issues)
-  or prabhupadanotes@gmail.com
+- Help page: https://dev-notes-1896.github.io/prabhupada-notes/help.html (the store's Support URL)
+- Questions and feedback: prabhupadanotes@gmail.com or [issues](https://github.com/dev-notes-1896/prabhupada-notes/issues)
 
 The privacy policy URL is the one given to the Chrome Web Store and to Google's
-sign-in setup, so it must stay at this address.
+sign-in setup, and the help page is the store's Support URL, so both must stay at
+these addresses.
 
 This repository holds only the website. The extension's source code is kept in a
 separate repository.
@@ -20,6 +21,7 @@ separate repository.
 ```
 index.html     Homepage: what the extension does, how it works, supported books, privacy summary
 privacy.html   Privacy policy
+help.html      Help: contact, common questions (the store's Support URL)
 style.css      Shared styles (vedabase palette, light and dark)
 icon-128.png   Extension icon (page header, homepage)
 icon-32.png    Favicon
@@ -34,7 +36,7 @@ Open `index.html` in a browser, or serve the folder:
 python3 -m http.server 8000   # then visit http://localhost:8000/
 ```
 
-Check both pages at desktop and phone widths, and in dark mode.
+Check every page at desktop and phone widths, and in dark mode.
 
 ## Publish
 
