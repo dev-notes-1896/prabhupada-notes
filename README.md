@@ -6,7 +6,7 @@ for writing personal notes on the verses you read at
 
 - Homepage: https://dev-notes-1896.github.io/prabhupada-notes/
 - Privacy policy: https://dev-notes-1896.github.io/prabhupada-notes/privacy.html
-- Questions and feedback: [issues](https://github.com/dev-notes-1896/prabhupada-notes/issues)
+- Questions and feedback: the homepage's [Help and feedback](https://dev-notes-1896.github.io/prabhupada-notes/#support) section (also the store's Support URL), or [issues](https://github.com/dev-notes-1896/prabhupada-notes/issues)
   or prabhupadanotes@gmail.com
 
 The privacy policy URL is the one given to the Chrome Web Store and to Google's
