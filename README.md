@@ -7,6 +7,7 @@ for writing personal notes on the verses you read at
 - Homepage: https://dev-notes-1896.github.io/prabhupada-notes/
 - Privacy policy: https://dev-notes-1896.github.io/prabhupada-notes/privacy.html
 - Help page: https://dev-notes-1896.github.io/prabhupada-notes/help.html (the store's Support URL)
+- Chrome Web Store: https://chromewebstore.google.com/detail/prabhupada-notes/ogjfhnkcffajjionpepmojhihnfjhdjc (the homepage's "Add to Chrome" button)
 - Questions and feedback: prabhupadanotes@gmail.com or [issues](https://github.com/dev-notes-1896/prabhupada-notes/issues)
 
 The privacy policy URL is the one given to the Chrome Web Store and to Google's
@@ -65,9 +66,6 @@ site in about a minute; no build step.
 
 ## Pending
 
-- When the Chrome Web Store listing is live, replace the homepage's
-  "Add to Chrome" placeholder (`<span class="cta" aria-disabled="true">`) with a
-  link to the listing, and remove the "Coming soon" note.
 - If the Google sign-in screen gets a logo, Google requires verifying this site's
   domain in Google Search Console. That's done by adding the verification
   `<meta>` tag it provides to `index.html`.
